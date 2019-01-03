@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "25"; ObjectID = "3bo-RH-Wzn"; */
+"3bo-RH-Wzn.text" = "25";
+
+/* Class = "UILabel"; text = "$$"; ObjectID = "6F1-54-5TZ"; */
+"6F1-54-5TZ.text" = "$$";
+
+/* Class = "UILabel"; text = "salary day of month"; ObjectID = "7YW-RN-3K8"; */
+"7YW-RN-3K8.text" = "salary day of month";
+
+/* Class = "UILabel"; text = "Current Balance"; ObjectID = "8zL-8U-1dc"; */
+"8zL-8U-1dc.text" = "Current Balance";
+
+/* Class = "UIButton"; normalTitle = "table"; ObjectID = "Agj-m3-YHs"; */
+"Agj-m3-YHs.normalTitle" = "table";
+
+/* Class = "UINavigationItem"; title = "counter"; ObjectID = "DNe-ta-NVE"; */
+"DNe-ta-NVE.title" = "counter";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fxp-FT-NIX"; */
+"Fxp-FT-NIX.text" = "Label";
+
+/* Class = "UILabel"; text = "0.0 $"; ObjectID = "HuU-Di-6lh"; */
+"HuU-Di-6lh.text" = "0.0 $";
+
+/* Class = "UIButton"; normalTitle = "?"; ObjectID = "JCH-ML-Jzd"; */
+"JCH-ML-Jzd.normalTitle" = "?";
+
+/* Class = "UILabel"; text = "Salary Amount"; ObjectID = "Lsk-Ks-luq"; */
+"Lsk-Ks-luq.text" = "Salary Amount";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mtw-VF-Z1c"; */
+"Mtw-VF-Z1c.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "NDs-ve-xIn"; */
+"NDs-ve-xIn.normalTitle" = "Done";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "NuN-en-5bl"; */
+"NuN-en-5bl.title" = "Cancel";
+
+/* Class = "UILabel"; text = "app_name"; ObjectID = "QcP-Gc-BlU"; */
+"QcP-Gc-BlU.text" = "app_name";
+
+/* Class = "UILabel"; text = "New Salary"; ObjectID = "Syc-BS-2Kk"; */
+"Syc-BS-2Kk.text" = "New Salary";
+
+/* Class = "UIButton"; normalTitle = "Add Entry"; ObjectID = "Tp2-FZ-0dR"; */
+"Tp2-FZ-0dR.normalTitle" = "Add Entry";
+
+/* Class = "UILabel"; text = "new Date"; ObjectID = "ZB9-1G-8Ok"; */
+"ZB9-1G-8Ok.text" = "new Date";
+
+/* Class = "UIButton"; normalTitle = "get current location"; ObjectID = "c2u-lz-Ifi"; */
+"c2u-lz-Ifi.normalTitle" = "get current location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cZu-wu-snP"; */
+"cZu-wu-snP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dIj-py-45R"; */
+"dIj-py-45R.text" = "Label";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "gYd-te-vtN"; */
+"gYd-te-vtN.text" = "location";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "iVp-tX-R8I"; */
+"iVp-tX-R8I.text" = "amount";
+
+/* Class = "UILabel"; text = "copyrights"; ObjectID = "iyO-WY-8Pe"; */
+"iyO-WY-8Pe.text" = "copyrights";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "lMK-4V-7lo"; */
+"lMK-4V-7lo.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "web"; ObjectID = "qcs-st-4x7"; */
+"qcs-st-4x7.normalTitle" = "web";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "vMV-Mw-tj1"; */
+"vMV-Mw-tj1.text" = "name";
+
+/* Class = "UILabel"; text = "Build"; ObjectID = "vSK-Lk-FXd"; */
+"vSK-Lk-FXd.text" = "Build";
+
+/* Class = "UIButton"; normalTitle = "edit"; ObjectID = "vnY-R4-9LJ"; */
+"vnY-R4-9LJ.normalTitle" = "edit";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "wqm-ho-1q0"; */
+"wqm-ho-1q0.text" = "Version";

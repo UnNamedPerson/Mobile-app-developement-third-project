@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  Money Keeper (project3)
+
+  Created by Abdullah Alsayari on 12/4/18.
+  Copyright © 2018 Abdullah Alsayari. All rights reserved.
+*/
+
+"locationLabelText" = "Location";
+"tableButtonText" = "table";
+"webButtonText" = "web";
+"getCurrentLocationButtonText" = "get current location";
+"endCurrentLocationButton" = "end current location";
+"amountLabelText" = "amount";
+"nameLabelText" = "name";
+"addButtonText" = "add new entry";
+"cancelButtonText" = "cancel";
+
+
+"WrongInputAlertTitle" = "Wrong Input Type";
+"WrongInputAlertMessage" = "one or more of you inputs is of the wrong type or missing input";
+
+"emptyInputAlertTitle" = "missing input";
+"emptyInputAlertMessage" = "one of more of your inputs is missing";
+
+"cancelAlertBoxTitle" = "Are you sure you wnat to cancel";
+"cancelAlertBoxMessage" = "all data will be lost";
+
+"yesAlertButton" = "yes";
+"noAlertButton" = "no";
+
+"doneButton" = "done";
+
+"tableTitle" = "table";
+
+

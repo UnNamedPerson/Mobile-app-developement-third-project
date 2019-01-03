@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Money Keeper (project3)
+
+  Created by Abdullah Alsayari on 12/4/18.
+  Copyright © 2018 Abdullah Alsayari. All rights reserved.
+*/
+
+"locationLabelText" = "الموقع";
+"tableButtonText" = "الجدول";
+"webButtonText" = "النت";
+"getCurrentLocationButtonText" = "احصل على الموقع الحالي";
+"endCurrentLocationButton" = "انهي الحصول على الموقع الحالي";
+"amountLabelText" = "الكمية";
+"nameLabelText" = "الاسم";
+"addButtonText" = "أضف دفعة جديدة";
+"cancelButtonText" = "إلغاء";
+
+"WrongInputAlertTitle" = "نوع المدخل خاطئ";
+"WrongInputAlertMessage" = "واحد من مدخلاتك خاطئ";
+
+"emptyInputAlertTitle" = "مدخلات مفقودة";
+"emptyInputAlertMessage" = "واحد من مدخلاتك غير موجود";
+
+"cancelAlertBoxTitle" = "هل أنت متأكد أنك تريد الإلغاء";
+"cancelAlertBoxMessage" = "كل البيانات ستكون مفقودة";
+
+"yesAlertButton" = "نعم";
+"noAlertButton" = "لا";
+
+"doneButton" = "عودة";
+
+"tableTitle" = "جدول";
